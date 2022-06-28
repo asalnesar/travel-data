@@ -1,0 +1,33 @@
+﻿Region,SQL unique_name,Aver. cost per week,jan,feb,mar,apr,may,jun,jul,aug,sep,oct,nov,dec,nature & wildlife,hiking,beach,watersports,entertainment,wintersports,culture,culinary,cities & architecture,shopping
+Norway,NOR,560,-,-,-,o,+,++,++,++,+,o,o,-,+,+,--,-,-,+,o,o,-,o
+Finland,FIN,525,-,-,-,o,+,++,++,++,+,o,o,-,+,o,--,-,o,o,o,o,-,o
+Sweden and Denmark,SWE,525,-,-,-,o,+,++,++,++,+,o,o,-,+,o,-,o,o,o,o,o,o,o
+Iceland and Faroe Islands,ISL,560,-,-,-,o,+,++,++,++,+,o,o,-,+,+,--,o,-,-,o,-,-,-
+Germany,DEU,420,o,-,o,o,+,++,++,++,++,+,-,o,o,o,-,-,+,o,+,o,+,o
+Austria,AUT,500,+,+,+,o,+,++,++,++,+,o,-,+,+,+,--,-,o,++,+,o,+,o
+Benelux,NLD,420,o,-,o,o,+,++,++,++,++,+,-,o,o,o,-,-,o,-,+,-,+,o
+Switzerland and Liechtenstein,CHE,750,+,+,+,o,+,++,++,++,+,o,-,+,+,+,--,-,o,++,+,o,+,o
+France,FRA,420,o,-,o,o,+,++,++,++,++,+,-,o,+,+,+,o,o,o,+,+,+,+
+Slovenia and Croatia,SVN,350,o,-,o,o,+,++,++,++,++,+,-,o,o,o,+,o,o,-,+,o,+,o
+Ireland and Northern Ireland,IRL,420,-,-,o,+,++,++,+,+,+,+,o,-,+,o,--,--,o,-,+,o,o,o
+Scotland,GBR_SC,420,-,-,o,+,++,++,+,+,+,+,o,-,o,o,--,--,o,-,+,-,o,o
+England and Wales,GBR_EN,420,-,-,o,+,++,++,+,+,+,+,o,-,o,o,-,--,o,--,+,-,+,+
+Czech Republic and Slovakia,CZE,350,-,-,-,o,++,++,+,+,++,++,o,-,o,o,--,--,o,o,+,o,+,o
+Hungary,HUN,350,-,-,-,o,++,++,+,+,++,++,o,-,o,+,-,-,o,-,+,o,+,o
+Baltic states,EST,350,-,-,-,o,++,++,+,+,++,++,o,-,o,o,-,-,o,-,+,o,+,-
+Poland,POL,350,-,-,-,o,++,++,+,+,++,++,o,-,o,-,-,-,o,--,o,o,o,o
+"Belarus, Ukraine and Moldova",BLR,350,-,-,-,o,++,++,+,+,++,++,o,-,o,o,-,-,-,-,o,o,-,-
+"Romania, Bulgaria and Macedonia",ROU,350,-,-,-,o,++,++,+,+,++,++,o,-,o,o,o,o,-,--,o,o,o,-
+"Serbia, Bosnia and Herzegovina, Montenegro",SRB,350,-,-,-,o,++,++,+,+,++,++,o,-,-,-,--,--,-,--,o,o,-,-
+"Albania, Kosovo",ALB,350,-,-,-,o,++,++,+,+,++,++,o,-,-,-,o,-,-,--,o,o,-,-
+Corsica and Sardinia,FRA_CO,350,-,-,o,++,++,++,+,+,++,++,+,o,o,o,+,o,-,--,o,o,-,-
+Italy and Malta,ITA,350,-,-,o,++,++,++,+,+,++,++,+,o,+,+,+,+,o,--,++,+,++,o
+"Greece, mainland",GRC_ML,350,-,-,o,++,++,++,+,+,++,++,+,o,+,+,+,+,o,--,+,+,+,o
+"Greece, islands",GRC_IS,350,-,-,o,++,++,++,+,+,++,++,+,o,+,o,++,+,+,--,++,+,o,-
+"Spain, mainland",ESP_ML,350,-,-,o,++,++,++,+,+,++,++,+,o,o,-,++,+,+,--,+,+,+,o
+"Spain, Balearic Islands",ESP_BA,350,-,-,o,+,++,++,+,+,++,++,o,-,+,+,++,+,++,--,o,+,o,-
+"Spain, Canary islands",ESP_CA,350,+,+,+,++,++,++,+,+,++,++,++,o,o,o,+,o,+,--,o,o,o,-
+"Portugal, mainland",PRT,350,-,-,o,++,++,++,+,+,++,++,+,o,o,o,+,o,o,--,+,+,+,-
+"Portugal, islands",PRT_IS,350,-,-,o,++,++,++,+,+,++,++,+,o,+,+,+,+,o,--,+,o,o,-
+Turkey,TUR,350,-,-,o,++,++,++,+,+,++,++,+,o,o,o,+,o,o,o,++,+,+,o
+Cyprus,CYP,350,-,-,o,++,++,++,+,+,++,++,+,o,-,o,+,+,o,--,+,o,o,-
