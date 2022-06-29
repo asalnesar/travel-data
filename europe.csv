@@ -1,4 +1,4 @@
-Region,ISO3,costPerWeek,jan,feb,mar,apr,may,jun,jul,aug,sep,oct,nov,dec,Nature,hiking,beach,entertainment,wintersports,culture,culinary,architecture,shopping
+Region,ISO3,costPerWeek,jan,feb,mar,apr,may,jun,jul,aug,sep,oct,nov,dec,nature,hiking,beach,entertainment,wintersports,culture,culinary,architecture,shopping
 Norway,NOR,560,-,-,-,o,+,++,++,++,+,o,o,-,+,+,--,-,+,o,o,-,o
 Finland,FIN,525,-,-,-,o,+,++,++,++,+,o,o,-,+,o,--,o,o,o,o,-,o
 Sweden and Denmark,SWE,525,-,-,-,o,+,++,++,++,+,o,o,-,+,o,-,o,o,o,o,o,o
